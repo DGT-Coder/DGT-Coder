@@ -21,7 +21,7 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: DGT-Human
+          github_user_name: DGT-Coder
 
 
       - name: push pacman-contribution-graph.svg to the output branch
